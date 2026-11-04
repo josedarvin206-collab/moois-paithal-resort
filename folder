@@ -1,0 +1,20 @@
+moois-paithal-resort-custom/
+│
+├── index.html
+├── README.txt
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── main.js
+│
+└── images/
+    ├── hero.jpg
+    ├── resort-exterior.jpg
+    ├── room-1.jpg
+    ├── room-2.jpg
+    ├── pool.jpg
+    ├── resort-view.jpg
+    ├── activities.jpg
+    └── resort-grounds.jpg
